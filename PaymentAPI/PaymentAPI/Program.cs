@@ -32,7 +32,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors(options =>
-options.WithOrigins("http://localhost:4200", "https://shimmering-kringle-9d1a7f.netlify.app")
+options.WithOrigins("http://localhost:4200", "https://shimmering-kringle-9d1a7f.netlify.app", "https://diksha-bargali-paymentapp.netlify.app")
 .AllowAnyMethod()
 .AllowAnyHeader());
 
