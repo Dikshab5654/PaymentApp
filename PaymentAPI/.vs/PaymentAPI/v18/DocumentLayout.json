@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\app\\payment-details\\payment-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_J3P28OE4_SQLEXPRESS/PaymentDetailDB/True/SqlTable/dbo.PaymentDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\diksha bargali\\downloads\\asp.net-core-web-api-crud-operations-with-angular-16-main\\asp.net-core-web-api-crud-operations-with-angular-16-main\\paymentapi\\paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\diksha bargali\\downloads\\asp.net-core-web-api-crud-operations-with-angular-16-main\\asp.net-core-web-api-crud-operations-with-angular-16-main\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\diksha bargali\\downloads\\asp.net-core-web-api-crud-operations-with-angular-16-main\\asp.net-core-web-api-crud-operations-with-angular-16-main\\paymentapi\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\diksha bargali\\downloads\\asp.net-core-web-api-crud-operations-with-angular-16-main\\asp.net-core-web-api-crud-operations-with-angular-16-main\\paymentapi\\paymentapi\\migrations\\20230529095237_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\migrations\\20230529095237_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\diksha bargali\\downloads\\asp.net-core-web-api-crud-operations-with-angular-16-main\\asp.net-core-web-api-crud-operations-with-angular-16-main\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\diksha bargali\\downloads\\asp.net-core-web-api-crud-operations-with-angular-16-main\\asp.net-core-web-api-crud-operations-with-angular-16-main\\paymentapi\\paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\index.html",
+              "RelativeDocumentMoniker": "..\\PaymentApp\\src\\index.html",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\index.html",
+              "RelativeToolTip": "..\\PaymentApp\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-26T17:33:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\styles.css",
+              "RelativeDocumentMoniker": "..\\PaymentApp\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\styles.css",
+              "RelativeToolTip": "..\\PaymentApp\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-26T17:32:52.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "payment-details.component.html",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\app\\payment-details\\payment-details.component.html",
+              "RelativeDocumentMoniker": "..\\PaymentApp\\src\\app\\payment-details\\payment-details.component.html",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentApp\\src\\app\\payment-details\\payment-details.component.html",
+              "RelativeToolTip": "..\\PaymentApp\\src\\app\\payment-details\\payment-details.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-26T17:32:40.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.PaymentDetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_J3P28OE4_SQLEXPRESS/PaymentDetailDB/True/SqlTable/dbo.PaymentDetails.sql",
+              "ToolTip": "dbo.PaymentDetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-26T15:15:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:18:58.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\appsettings.json",
+              "RelativeToolTip": "PaymentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T12:18:58.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Program.cs",
+              "RelativeToolTip": "PaymentAPI\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:18:58.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "PaymentAPI\\Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:18:58.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20230529095237_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Migrations\\20230529095237_First Migration.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Migrations\\20230529095237_First Migration.cs",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Migrations\\20230529095237_First Migration.cs",
+              "RelativeToolTip": "PaymentAPI\\Migrations\\20230529095237_First Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:18:58.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "C:\\Users\\Diksha Bargali\\Downloads\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16-main\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:18:58.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

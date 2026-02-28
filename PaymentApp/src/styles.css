@@ -1,0 +1,74 @@
+/* Animated Background */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(-45deg, #eef2f7, #e3f2fd, #f3e5f5, #e8f5e9);
+  background-size: 400% 400%;
+  animation: gradientMove 12s ease infinite;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Background Animation */
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Soft Corner Shapes */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  opacity: 0.18;
+  z-index: -1;
+  animation: float 6s ease-in-out infinite;
+}
+
+/* Top Left */
+body::before {
+  top: -100px;
+  left: -100px;
+  background: #4a90e2;
+}
+
+/* Bottom Right */
+body::after {
+  bottom: -100px;
+  right: -100px;
+  background: #8e44ad;
+  animation-delay: 2s;
+}
+
+/* Floating Animation */
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(15px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+/* Form Validation Styles */
+form.submitted input.ng-invalid {
+  border-color: #dc3545;
+  box-shadow: 0 0 0 0.25rem rgba(220, 53, 69, 0.25);
+}

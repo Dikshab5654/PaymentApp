@@ -1,0 +1,13 @@
+{
+  "name": "payment-app-root",
+  "version": "1.0.0",
+  "description": "Root package for running both frontend and backend concurrently",
+  "scripts": {
+    "start": "concurrently \"npm run start-frontend\" \"npm run start-backend\"",
+    "start-frontend": "cd PaymentApp && npm start",
+    "start-backend": "cd PaymentAPI/PaymentAPI && dotnet run"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
