@@ -10,8 +10,17 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var connectionString = builder.Configuration.GetConnectionString("DevConnection");
+if (connectionString != null && (connectionString.StartsWith("postgres://") || connectionString.StartsWith("postgresql://")))
+{
+    var databaseUri = new Uri(connectionString);
+    var userInfo = databaseUri.UserInfo.Split(':');
+    var port = databaseUri.Port > 0 ? databaseUri.Port : 5432;
+    connectionString = $"Host={databaseUri.Host};Port={port};Database={databaseUri.LocalPath.TrimStart('/')};Username={userInfo[0]};Password={userInfo[1]}";
+}
+
 builder.Services.AddDbContext<PaymentDetailContext>(options =>
-options.UseNpgsql(builder.Configuration.GetConnectionString("DevConnection")));
+    options.UseNpgsql(connectionString));
 
 var app = builder.Build();
 
