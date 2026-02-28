@@ -31,4 +31,11 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+// Apply database migrations automatically on startup
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<PaymentDetailContext>();
+    dbContext.Database.Migrate();
+}
+
 app.Run();
