@@ -31,19 +31,19 @@ namespace PaymentAPI.Migrations
 
                     b.Property<string>("CardNumber")
                         .IsRequired()
-                        .HasColumnType("nvarchar(16)");
+                        .HasColumnType("varchar(16)");
 
                     b.Property<string>("CardOwnerName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(100)");
+                        .HasColumnType("varchar(100)");
 
                     b.Property<string>("ExpirationDate")
                         .IsRequired()
-                        .HasColumnType("nvarchar(5)");
+                        .HasColumnType("varchar(5)");
 
                     b.Property<string>("SecurityCode")
                         .IsRequired()
-                        .HasColumnType("nvarchar(3)");
+                        .HasColumnType("varchar(3)");
 
                     b.HasKey("PaymentDetailId");
 

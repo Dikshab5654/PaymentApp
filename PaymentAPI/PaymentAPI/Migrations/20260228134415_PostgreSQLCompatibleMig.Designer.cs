@@ -11,8 +11,8 @@ using PaymentAPI.Models;
 namespace PaymentAPI.Migrations
 {
     [DbContext(typeof(PaymentDetailContext))]
-    [Migration("20260228131319_InitialPostgres")]
-    partial class InitialPostgres
+    [Migration("20260228134415_PostgreSQLCompatibleMig")]
+    partial class PostgreSQLCompatibleMig
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -34,19 +34,19 @@ namespace PaymentAPI.Migrations
 
                     b.Property<string>("CardNumber")
                         .IsRequired()
-                        .HasColumnType("nvarchar(16)");
+                        .HasColumnType("varchar(16)");
 
                     b.Property<string>("CardOwnerName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(100)");
+                        .HasColumnType("varchar(100)");
 
                     b.Property<string>("ExpirationDate")
                         .IsRequired()
-                        .HasColumnType("nvarchar(5)");
+                        .HasColumnType("varchar(5)");
 
                     b.Property<string>("SecurityCode")
                         .IsRequired()
-                        .HasColumnType("nvarchar(3)");
+                        .HasColumnType("varchar(3)");
 
                     b.HasKey("PaymentDetailId");
 
